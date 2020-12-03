@@ -5,6 +5,9 @@
 >>2. HTML 파일 - 기본적인 HTML과 CSS을 활용하여 버튼을 제작하여 이를 서브 제어에 사용
 >>3. AppInventor .aia - 스마트폰을 통한 원격제어를 위한 aia파일-컨트롤러
 
+>지도교수 : IoT응용 김랑기 교수님
+
 Link: [Google][googlelink]
 
 [googlelink]: https://youtube.com
+Email: <woojugoing@naver.com>
