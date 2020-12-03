@@ -8,7 +8,7 @@
 
 >지도교수 : IoT응용 김랑기 교수님
 
-Link: [Google][googlelink]
+Link: [Youtube][googlelink]
 
 [googlelink]: https://youtube.com
 Email: <woojugoing@naver.com>
