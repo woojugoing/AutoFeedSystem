@@ -12,7 +12,7 @@
 >지도교수 : IoT응용 김랑기 교수님
 
 Link: [Youtube](https://youtu.be/aiszoN-TUOQ) <br>
--Click + Ctrl Key
+-Click + Ctrl Key [New Tab]
 
 Email: <woojugoing@naver.com>
 
