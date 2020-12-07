@@ -13,7 +13,7 @@
 
 Link: [Youtube][googlelink]
 
-[googlelink]: https://youtube.com
+[googlelink]: https://youtu.be/aiszoN-TUOQ
 Email: <woojugoing@naver.com>
 
 HP: 010-6558-1542
