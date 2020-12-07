@@ -11,9 +11,7 @@
 
 >지도교수 : IoT응용 김랑기 교수님
 
-Link: [Youtube][googlelink]
-
-[googlelink]=https://youtu.be/aiszoN-TUOQ
+Link: [Youtube](https://youtu.be/aiszoN-TUOQ){: target="_blank"}
 Email: <woojugoing@naver.com>
 
 HP: 010-6558-1542
