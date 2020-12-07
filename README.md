@@ -13,7 +13,7 @@
 
 Link: [Youtube]<https://youtu.be/aiszoN-TUOQ>{: target="_blank"}
 
-[건망증이 심한 엔지니어](https://techstock.biz){:target="_blank"}
+[건망증이 심한 엔지니어](https://techstock.biz)<:target="_blank">
 Email: <woojugoing@naver.com>
 
 HP: 010-6558-1542
