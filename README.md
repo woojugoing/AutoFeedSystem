@@ -1,4 +1,4 @@
-# 2020_12_AutoFeedSystem
+# AutoFeedSystem
 ### 3-A 41515015 서경원 제작  <HR/>
 파일
 >1. Arduino 파일 - HTML과 소스코드를 사용하여 SERVO MOTOR 주 제어
